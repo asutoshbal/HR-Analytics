@@ -62,15 +62,15 @@ Over time workers experienced a higher attrition rate.
 Employees aged 31–45 had the highest attrition, while those aged 46–60 had the least turnover.
 
 ## Recommendatiobn
-Targeted Retention Strategies: Given the higher attrition among male employees, single individuals, and those living nearby, consider implementing targeted retention strategies for these specific demographics. Explore initiatives that address their unique needs and preferences, aiming to improve overall satisfaction and commitment.
-Career Development for Entry-Level Employees: As entry-level employees exhibit higher attrition rates, focus on enhancing career development programs and mentorship opportunities for this group. Providing a clear growth path can contribute to greater job satisfaction and loyalty.
+Targeted Retention Strategies: Given the higher attrition among male employees, single individuals, and those living nearby, consider implementing targeted retention strategies for these specific demographics.
+Career Development for Entry-Level Employees: As entry-level employees exhibit higher attrition rates, focus on enhancing career development programs and mentorship opportunities for this group.
 Performance Improvement Programs: With employees holding low-performance ratings having the highest attrition, consider implementing performance improvement programs. Identify the root causes of underperformance and provide support, training, or resources to help employees meet expectations.
 Departmental Engagement Initiatives: The research and development department experiences significant attrition. Explore targeted engagement initiatives within this department, such as professional development opportunities, team-building activities, and recognition programs to enhance employee satisfaction and retention.
-Tenure-Based Support Programs: Recognizing that employees with shorter tenures have higher attrition, consider introducing support programs tailored to individuals in the early stages of their roles. This may involve mentorship, onboarding improvements, or initiatives to integrate them into the organizational culture more effectively.
+Tenure-Based Support Programs: Recognizing that employees with shorter tenures have higher attrition, consider introducing support programs tailored to individuals in the early stages of their roles.
 Compensation and Role Evaluation: Job roles with the highest attrition correlate with lower average monthly incomes. Evaluate the compensation structure for these roles, ensuring it aligns with industry standards. Additionally, assess whether the responsibilities and expectations associated with these positions match the compensation offered.
 Overtime Management: Acknowledge the higher attrition among employees working overtime. Assess the workload, explore ways to manage and distribute tasks efficiently, and consider introducing policies to mitigate excessive overtime, fostering a healthier work-life balance.
 Age-Specific Engagement Programs: Recognizing higher attrition among employees aged 31–45, tailor engagement programs to address the specific needs and expectations of this age group. Consider benefits, flexible work arrangements, or professional development opportunities that resonate with their career and life stages.
-Regular Employee Surveys: Implement regular employee satisfaction surveys to gauge ongoing sentiments and identify evolving areas of concern. This proactive approach allows for continuous improvement and timely adjustments to retain valuable talent.
-Communication and Transparency: Enhance communication and transparency regarding the company’s overall attrition rate and average monthly income. This fosters trust and keeps employees informed, potentially positively impacting their commitment to the organization.
+Regular Employee Surveys: Implement regular employee satisfaction surveys to gauge ongoing sentiments and identify evolving areas of concern.
+Communication and Transparency: Enhance communication and transparency regarding the company’s overall attrition rate and average monthly income.
 
 
