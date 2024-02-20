@@ -7,7 +7,7 @@ This repository contains the code, data, and documentation for the HR Analytics 
 1. HR ATTRITION DASHBOARD:
    This page involves overview of Project shown as Demographic,Turnover analysis and employee welness.
 2. Demographics data:
-   This page shown the data of attrition according work-life balance, gender, distence from home,Age,And marital status
+   This page shown the data of attrition according work-life balance, gender, distence from home,Age,And marital status.
 3.Turnover analysis-I:
    This page is about the summary of attrition data according job role, Department, buisness travel.
 4.Turnover analysis -II: 
